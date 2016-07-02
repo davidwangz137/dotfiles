@@ -72,3 +72,4 @@ map <C-w><Bslash> :ConqueTermVSplit bash <CR> <Esc> <Esc>:!echo "HERE" <CR> :aut
 map <C-w>- :ConqueTermSplit bash <CR>
 
 "let g:ConqueTerm_StartMessages = 0
+"asdf
