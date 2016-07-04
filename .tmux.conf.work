@@ -1,0 +1,38 @@
+unbind C-b
+set -g prefix C-w
+bind C-w send-prefix
+bind \ split-window -h # Split panes horizontal
+bind - split-window -v # Split panes vertically
+
+set -g xterm-keys on
+setw -g mode-keys vi
+set -g status-keys vi
+bind-key -t vi-edit Up   history-up
+bind-key -t vi-edit Down history-down
+
+bind h select-pane -L
+bind j select-pane -D
+bind k select-pane -U
+bind l select-pane -R
+
+unbind Up     
+unbind Down   
+unbind Left   
+unbind Right  
+
+unbind C-Up   
+unbind C-Down 
+unbind C-Left 
+unbind C-Right
+
+bind Down resize-pane -D 10
+bind Up resize-pane -U 10
+bind Left resize-pane -L 10
+bind Right resize-pane -R 10
+
+bind-key -t vi-copy 'v' begin-selection
+bind -t vi-copy y copy-pipe "xclip -sel clip -i"
+
+set -g status off
+
+set-option -ga update-environment ' VIRTUAL_ENV'
