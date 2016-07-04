@@ -115,4 +115,4 @@ set t_vb=
 "split manager
 "Using vim and tmux then using vim bindings to yank vim... There is something
 "disagreeable here
-nnoremap <C-a> <C-w>
+"nnoremap <C-a> <C-w>
