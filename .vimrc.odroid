@@ -120,3 +120,7 @@ set t_vb=
 set wildmode=longest,list
 " So CtrlP starts in the local split directory
 let g:ctrlp_working_path_mode = 0
+
+" Mouse resize of splits so we can use many at the same time
+set mouse=n
+set ttymouse=xterm2
