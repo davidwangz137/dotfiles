@@ -44,7 +44,7 @@ set showmatch
 " enable all Python syntax highlighting features
 let python_highlight_all = 1
 
-colorscheme default2
+colorscheme elflord
 
 " make search ignore case by default
 set ignorecase
@@ -100,8 +100,8 @@ set tags=~/tags
 "map <C-w><Bslash> :ConqueTermVSplit bash <CR> <Esc> <Esc>:!echo \"HERE\" <CR> :autocmd! ycmcompletemecursormove CursorMovedI <CR> :autocmd! ycmcompleteme CursorHoldI <CR> 
 "map <C-w><Bslash> :autocmd! ycmcompletemecursormove CursorMovedI <CR> :autocmd! matchparen CursorMovedI <CR> :autocmd! youcompleteme CursorHoldI <CR> :ConqueTermVSplit bash <CR> 
 "map <C-w>- :autocmd! ycmcompletemecursormove CursorMovedI <CR> :autocmd! matchparen CursorMovedI <CR> :autocmd! youcompleteme CursorHoldI <CR> :ConqueTermSplit bash <CR>
-map <C-w><Bslash> :ConqueTermVSplit bash <CR> 
-map <C-w>- :ConqueTermSplit bash <CR>
+map <C-w><Bslash> :vs <CR> 
+map <C-w>- :sp <CR>
 let g:ConqueTerm_StartMessages = 0
 
 "autowrap NEVER
@@ -116,3 +116,11 @@ set t_vb=
 "Using vim and tmux then using vim bindings to yank vim... There is something
 "disagreeable here
 "nnoremap <C-a> <C-w>
+"
+set wildmode=longest,list
+" So CtrlP starts in the local split directory
+let g:ctrlp_working_path_mode = 0
+
+" Mouse resize of splits so we can use many at the same time
+set mouse=n
+set ttymouse=xterm2
