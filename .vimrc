@@ -140,3 +140,11 @@ endif
 command -nargs=+ -complete=file -bar Ag silent! grep! <args>|cwindow|redraw!
 
 nnoremap \ :Ag<SPACE>
+
+"let g:ycm_global_ycm_extra_conf = '~/.vim/.ycm_extra_conf.py'
+let g:ycm_global_ycm_extra_conf = '~/.vim/bundle/YouCompleteMe/third_party/ycmd/cpp/ycm/.ycm_extra_conf.py'
+"annoying compiler warnings only needed when debugging the functions
+let g:ycm_show_diagnostics_ui = 0
+nnoremap gh :YcmCompleter GoToInclude<CR>
+
+
