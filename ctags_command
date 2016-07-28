@@ -1,1 +1,1 @@
-ctags --exclude=build --exclude=source --exclude=venv --exclude=environments --exclude=libraries --exclude=.* --exclude=Downloads -V -R ~
+ctags --exclude=build --exclude=source --exclude=venv --exclude=environments --exclude=libraries --exclude=.* --exclude=Downloads -R ~
