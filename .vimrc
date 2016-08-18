@@ -147,4 +147,27 @@ let g:ycm_global_ycm_extra_conf = '~/.vim/bundle/YouCompleteMe/third_party/ycmd/
 let g:ycm_show_diagnostics_ui = 0
 nnoremap gh :YcmCompleter GoToInclude<CR>
 
+nnoremap gd :YcmCompleter GoTo<CR>
 
+"set foldmethod=syntax "fold based on indent
+"set foldnestmax=10      "deepest fold is 10 levels
+"set foldlevel=0         "this is just what i use
+"set foldlevelstart=0
+"set foldenable
+
+set foldenable
+set foldlevel=0
+set foldnestmax=10
+set foldmethod=indent
+
+"set foldclose=all
+
+nnoremap R zr
+nnoremap E zR
+nnoremap F zm
+nnoremap M zM
+
+noremap J 10j
+noremap K 10k
+noremap H 10h
+noremap L 10l
