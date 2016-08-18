@@ -1,0 +1,172 @@
+AP credits:
+BIOL 239
+BIOL 130L (Lab)
+PSYCH 101
+
+Fall 2014:
+SE 101
+CS 137
+MATH 115
+MATH 137
+ECE 105
+ECE 140
+
+Winter 2015:
+CS 138
+MATH 119
+MATH 135
+ECE 106
+ECE 124
+
+Coop:
+
+Fall 2015:
+CS 246
+CS 245
+STAT 240
+MATH 245
+MATH 247
+MATH 249
+
+Winter 2016:
+CS 240e
+CS 241
+CS 251
+CO 255
+STAT 241
+ECE 457B
+
+Coop:
+
+Fall 2016:
+PMATH 351
+CO 450
+CO 342
+CS 341 (F,W,S)
+CS 350 (F,W,S)
+PMATH 347
+
+Coop:
+
+Spring 2017:
+PMATH 450
+CO 446
+CO 471
+CS 762 Computational Graph Theory (Therese Biedl again!)
+CS 360 (F,W,S)
+PMATH 764 Algebraic Geometry
+
+Coop:
+
+Winter 2018:
+PMATH 451
+CS 462
+CS 444 <- On board the compiler rape train.
+ONE MORE CS400s in order to get CS major!!!!!!!
+-> Ask for graduate course?
+-> CS765 or CS764 would be nice
+
+//Probably going to do something else instead of the below: they are too boring
+//two of CS 485 or CS 444 or CS 489 <- see if there are any good topics for CS 489. Can also replace with graduate courses if they are applicable. Check who is teaching CS 485 to see if it is worth taking. Shai-ben David = PAC learning fun.
+
+Humanities elective
+PHYS233 (lol)
+
+Coop: CO Research?
+
+Coop: Try to take CO442 on coop. It is pretty worth. Do research then? 
+
+Winter 2019:
+
+CS 452 -> DEATH
+CO 444 -> prereq PMATH 347 (just take it somewhere two terms before)
+CO 452 
+Humanities elective
+Econ/Psych elective
+PMATH 467 - Algebraic Topology
+
+PMATH:
+
+CO Courses:
+
+CO 759: Topics in Discrete Optimization if others don't fit your liking
+Previous offerings were algorithmic game theory
+Computational Discrete Optimization (Cook!)
+
+CO 342 (Graph Theory, F)
+CO 450 (Combinatorial Optimization, F)
+
+CO 446 (Matroid Theory, S) -> requires CO 342
+CO 471 (Semidefinite Optimization, S). Literally matrices the course
+
+CO 463 (Convex Optimization, W/F switching).
+
+CO 444 (Algebraic Graph Theory, Every 2 years W, 2017, 2019)
+CO 452 (Integer programming, Every 2 years W, 2017, 2019)
+
+Maybe try grad CO/CS courses if you find some of these courses as shit. Have to pick these two terms before the term you take the course (add drop won't help as the grad courses only enroll 10/20 and will be full).
+
+CS electives:
+
+CS 365 (Models of Computation: W) / CS 360 (Intro to Theory of Computing: F,W,S) -> Easier
+
+CS 462 (Formal Languages and Parsing. W) -> Check availibility
+CS 452 (REAL TIME DEATH RAPE ALERT. W,S)
+CS 487 (Symbolic: W)
+CS 489 (Advanced topics: W) See if there are any good topics
+CS 466 (Alg Design and Analysis: F,S)
+CS 485 (Machine Learning: F,W. Confirm when you get to it)
+
+6 needed
+
+ENG/Humanities: 1 credit. If take prereq chain of 3 then get 1.5 credits -> perfect.
+
+CLAS 202 (Ancient Roman society). Also CLAS 201 is similar (Ancient Greek society)
+
+Psych/social sciences: 0.5 credits
+
+ECON101 and ECON102 depending on the prof -> Larry Smith very hard.
+
+PSYCH211 (Development Psychology) might be interesting and its easy.
+
+PSYCH207 (Cognitive Processes) is all memorization but it is easy.
+
+
+################################################
+#Bachelor of Computer Science requirements:
+################################################
+
+Three additional CS courses chosen from CS 340-398, 440-489.
+
+Two additional CS courses chosen from CS 440-489.
+
+One additional course chosen from
+
+CO 487 Applied Cryptography 
+CS 440-498 
+CS 499T Honours Thesis 
+STAT 440 Computational Inference 
+CS 600- or 700-level courses 
+(CS 600- or 700-level courses may be taken only if an equivalent 400-level course does not exist and special permission is obtained from the instructor and a CS undergraduate advisor. Courses in this list may be counted as CS 0.5 units.) 
+The selection of upper-year CS courses must include at least one course from each of at least two of the following area groups:
+
+Systems and SE: CS 343, CS 349, CS 442, CS 444, CS 445, CS 446, CS 447, CS 450, CS 452, CS 454, CS 456, CS 457, CS 458
+Applications: CS 348, CS 448, CS 449, CS 473, CS 476, CS 482, CS 484, CS 485, CS 486, CS 488
+Mathematical Foundations of CS: CS 360, CS 365, CS 370, CS 371, CS 462, CS 466, CS 467, CS 475, CS 487
+
+
+The 5.0 non-math units must satisfy the following elective breadth and depth requirements. (Alternate plans must be approved by a CS advisor.)
+
+Elective breadth requirements
+
+1.0 unit from the humanities (subjects from ARTS, CHINA, CLAS, CMW, CROAT, DAC, DRAMA, DUTCH, EASIA, ENGL, FINE, FR, GER, GRK, HIST, HUMSC, ITAL, ITALST, JAPAN, JS, KOREA, LAT, MUSIC, PHIL, POLSH, PORT, REES, RS, RUSS, SI, SPAN, SPCOM)
+1.0 unit from the social sciences (subjects from AFM, ANTH, APPLS, BUS, ECON, GEOG, HRM, INTST, INTTS, ISS, LS, MSCI, NATST, PACS, PSCI, PSYCH, REC, SMF, SOC, SOCWK, SPD, STV, WS)
+0.5 units from the pure sciences (subjects from BIOL, CHEM, EARTH, PHYS, SCI)
+0.5 units from the pure and applied sciences (subjects from pure sciences plus ARCH, ENVS, ERS, GERON, HLTH, KIN, PLAN)
+Note: No course can be used to satisfy more than one of the above requirements.
+Elective depth requirements
+
+1.5 units with the same subject, including at least 0.5 units at third-year level or higher
+
+or
+1.5 units with the same subject forming a prerequisite chain of length three
