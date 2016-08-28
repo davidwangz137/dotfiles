@@ -48,6 +48,19 @@ PMATH 347
 
 Coop:
 
+PLAN B: # If I do 8 months at Disney Research
+
+Coop:
+
+Fall 2017:
+CO 442 Graph Theory
+CS 360 (F,W,S)
+PMATH 753 Functional Analysis (<-- Get Stephen Mandt to write a recommendation for this, since statistics uses measure theory and this makes sure that I have the background)
+<-- also can talk about how I have read Stein 3rd
+Some BS CS courses
+
+PLAN A:
+
 Spring 2017:
 PMATH 450
 CO 446
@@ -65,6 +78,8 @@ CS 444 <- On board the compiler rape train.
 ONE MORE CS400s in order to get CS major!!!!!!!
 -> Ask for graduate course?
 -> CS765 or CS764 would be nice
+-> Can I do a topics course !?!?! -> CS860
+-> CS779 requires a project and implementing something with openGL. Kind of torn
 
 //Probably going to do something else instead of the below: they are too boring
 //two of CS 485 or CS 444 or CS 489 <- see if there are any good topics for CS 489. Can also replace with graduate courses if they are applicable. Check who is teaching CS 485 to see if it is worth taking. Shai-ben David = PAC learning fun.
