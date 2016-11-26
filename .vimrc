@@ -12,13 +12,16 @@ Plugin 'VundleVim/Vundle.vim'
 Plugin 'The-NERD-Commenter'
 Plugin 'ctrlp.vim'
 Plugin 'Buffergator'
+Plugin 'calendar-vim'
+Plugin 'journal.vim'
+Plugin 'Solarized'
 "Plugin 'Syntastic'
 
 call vundle#end()            " required
 filetype plugin indent on    " required
 
 " enable syntax highlighting
-syntax enable
+syntax on
 
 " show line numbers
 set number
@@ -44,7 +47,11 @@ set showmatch
 " enable all Python syntax highlighting features
 let python_highlight_all = 1
 
-colorscheme elflord
+set background=dark
+"colorscheme elflord
+let g:solarized_termcolors=256
+set t_Co=256 
+colorscheme solarized
 
 " make search ignore case by default
 set ignorecase
