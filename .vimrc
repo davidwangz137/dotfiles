@@ -12,8 +12,8 @@ Plugin 'VundleVim/Vundle.vim'
 Plugin 'The-NERD-Commenter'
 Plugin 'ctrlp.vim'
 Plugin 'Buffergator'
-Plugin 'calendar-vim'
-Plugin 'journal.vim'
+"Plugin 'calendar-vim'
+"Plugin 'journal.vim'
 Plugin 'Solarized'
 "Plugin 'Syntastic'
 
@@ -24,7 +24,7 @@ filetype plugin indent on    " required
 syntax on
 
 " show line numbers
-set number
+set nonumber
 
 " set tabs to have 4 spaces
 set ts=4
