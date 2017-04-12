@@ -63,19 +63,21 @@ Some BS CS courses
 PLAN A:
 
 Spring 2017:
-PMATH 450
-CO 446
+PHYS 234
+CO 454
 CO 471
-CS 762 Computational Graph Theory (Therese Biedl again!)
-CS 360 (F,W,S)
-PMATH 764 Algebraic Geometry
+CS 452 <- Trains!
+CS 466
+CLAS 261  # Great works
 
 Coop:
 
 Winter 2018:
-PMATH 451
-CS 462
+CS 360
 CS 444 <- On board the compiler rape train.
+Humanities elective
+Not sure what after that, since can't take PMATH because no 450
+
 ONE MORE CS400s in order to get CS major!!!!!!!
 -> Ask for graduate course?
 -> CS765 or CS764 would be nice
@@ -85,8 +87,6 @@ ONE MORE CS400s in order to get CS major!!!!!!!
 //Probably going to do something else instead of the below: they are too boring
 //two of CS 485 or CS 444 or CS 489 <- see if there are any good topics for CS 489. Can also replace with graduate courses if they are applicable. Check who is teaching CS 485 to see if it is worth taking. Shai-ben David = PAC learning fun.
 
-Humanities elective
-PHYS233 (lol)
 
 Coop: CO Research?
 
@@ -96,7 +96,7 @@ Winter 2019:
 
 CS 452 -> DEATH
 CO 444 -> prereq PMATH 347 (just take it somewhere two terms before)
-CO 452 
+CS 462
 Humanities elective
 Econ/Psych elective
 PMATH 467 - Algebraic Topology
