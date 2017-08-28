@@ -182,3 +182,5 @@ noremap H 10h
 noremap L 10l
 noremap W 10w
 noremap B 10b
+
+set laststatus=2
