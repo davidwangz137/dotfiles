@@ -184,3 +184,5 @@ noremap W 10w
 noremap B 10b
 
 set laststatus=2
+nnoremap d "_d
+vnoremap d "_d
